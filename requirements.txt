@@ -5,3 +5,5 @@ flask
 streamlit
 Pillow
 requests
+scikit-learn
+seaborn
